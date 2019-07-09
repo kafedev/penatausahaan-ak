@@ -37,7 +37,7 @@ git clone https://github.com/maqwastudio/penatausahaan-ak.git
 http://localhost/penatausahaan-ak
 ```
 
-## Built With
+## Dikembangkan dengan
 
 * [Codeigniter](https://www.codeigniter.com/) - PHP framework yang digunakan
 * [Bootstrap 4](https://getbootstrap.com/) - User Interface
@@ -47,8 +47,8 @@ http://localhost/penatausahaan-ak
 
 * **Muhammad Azzuhair** - *Initial work* - [msazzuhair](https://github.com/msazzuhair)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Lihat daftar [kontributor](https://github.com/maqwastudio/penatausahaan-ak/graphs/contributors) yang turut berpartisipasi.
 
-## License
+## Lisensi
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Proyek ini menggunakan lisensi MIT - lihat berkas [LICENSE.md](LICENSE.md)
