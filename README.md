@@ -22,16 +22,17 @@ Pengembangan aplikasi ini menggunakan XAMPP versi 7.2.11-0 di Linux Kubuntu.
 
 Langkah-langkah pemasangan:
 
-Clone proyek ini dari GitHub pada server root (untuk XAMPP dapat diletakkan di folder htdocs)
-
+* Clone proyek ini dari GitHub pada server root (untuk XAMPP dapat diletakkan di folder htdocs)
 ```
 cd /path/to/server/root
 git clone https://github.com/maqwastudio/penatausahaan-ak.git
 ```
 
-Jalankan web server (Apache) dan MySql.
+* Import file examples_database.sql
 
-Buka web browser dan akses
+* Jalankan web server (Apache) dan MySql.
+
+* Buka web browser dan akses
 ```
 http://localhost/penatausahaan-ak
 ```
