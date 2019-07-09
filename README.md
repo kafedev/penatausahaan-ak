@@ -28,7 +28,7 @@ cd /path/to/server/root
 git clone https://github.com/maqwastudio/penatausahaan-ak.git
 ```
 
-* Import file examples_database.sql
+* Import file examples_database.sql di PHPmyAdmin
 
 * Jalankan web server (Apache) dan MySql.
 
