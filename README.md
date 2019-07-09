@@ -51,4 +51,4 @@ Lihat daftar [kontributor](https://github.com/maqwastudio/penatausahaan-ak/graph
 
 ## Lisensi
 
-Proyek ini menggunakan lisensi MIT - lihat berkas [LICENSE.md](LICENSE.md)
+Proyek ini menggunakan lisensi MIT - lihat berkas [license.txt](LICENSE.md)
